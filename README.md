@@ -1,3 +1,3 @@
 # Othello-Game
 
-Iplication of the Othello game in Python.
+Implication of the Othello game in Python.
